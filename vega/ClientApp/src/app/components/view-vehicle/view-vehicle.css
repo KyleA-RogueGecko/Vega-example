@@ -1,0 +1,14 @@
+.btn-primary{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav-options {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.btn-default:hover {
+    color:#1b6ec2;
+    transition-duration: 0.4s;
+}

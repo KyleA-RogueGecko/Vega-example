@@ -1,0 +1,9 @@
+.btn.btn-primary[disabled] {
+    background-color: grey;
+    border-color: darkgray;
+}
+
+.alert.alert-danger{
+    margin-top: 5px;
+}
+
